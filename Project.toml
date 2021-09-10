@@ -7,6 +7,7 @@ version = "0.1.0"
 OhMyREPL = "5fb14364-9ced-5910-84b2-373655c76a03"
 
 [compat]
+OhMyREPL = "0.5"
 julia = "1"
 
 [extras]
